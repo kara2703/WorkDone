@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+workdone.db
+.DS_Store
+*.zip
