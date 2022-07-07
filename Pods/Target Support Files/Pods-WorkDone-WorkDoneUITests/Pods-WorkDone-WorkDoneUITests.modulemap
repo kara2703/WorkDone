@@ -1,0 +1,6 @@
+framework module Pods_WorkDone_WorkDoneUITests {
+  umbrella header "Pods-WorkDone-WorkDoneUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
